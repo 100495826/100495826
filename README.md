@@ -1,4 +1,4 @@
-# Juan Pujol Carrillo
+# Joaquín Pujol Carrillo
 
 ## 👋 About Me
 Hi, I'm Joaquín, a **Computer Engineering student** at **Universidad Carlos III de Madrid**, currently in my final year.  
