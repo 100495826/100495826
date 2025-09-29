@@ -1,4 +1,9 @@
+<h1 align="center" style="font-weight:bold;"> Joaquín Pujol Carrillo </h1>
+
 # Joaquín Pujol Carrillo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquinpujolcarrillo/)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:joaquinpujolcarrillo@gmail.com)
 
 ## 👋 About Me
 Hi, I'm Joaquín, a **Computer Engineering student** at **Universidad Carlos III de Madrid**, currently in my final year.  
@@ -26,10 +31,6 @@ Feel free to **connect with me** or **explore my projects**!
 - 🔗 LinkedIn: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario)
 
 ---
-
-Contact info
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquinpujolcarrillo/)
-[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:joaquinpujolcarrillo@gmail.com)
 
 
 
