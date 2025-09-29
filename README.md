@@ -18,40 +18,23 @@ Passionate about **Artificial Intelligence, cybersecurity, software development,
 ---
 
 ## 🛠 Skills
-**Programming Languages & Tools:** Python | C | SQL | Git | Linux | JavaScript | HTML | CSS | RStudio | C++
-**Areas of Interest:** AI | Machine Learning | Cybersecurity | Software Development | Databases  
+**🧑‍💻Programming Languages & Tools:** Python | C | SQL | Git | Linux | JavaScript | HTML | CSS | RStudio | C++ <br>
+**❓Areas of Interest:** AI | Machine Learning | Cybersecurity | Software Development | Databases  
 
 ---
 
 ## 📂 Projects
-- [**Chatbot Python AI**](link) – AI chatbot developed in Python using NLP techniques.  
-- [**Secure Web App**](link) – Web application following cybersecurity best practices.  
-- [**Database Management Tool**](link) – Python and SQL tool to manage and query databases efficiently.  
-- [**Project Name 4**](link) – Brief description, technologies used.  
+- 🎄 [**Christmas Website**](https://github.com/100477706/Interface_Project.git) – Counts down to Santa's arrival. Built for the **User Interfaces** class.  
+- 🔐 [**Cryptography App**](https://github.com/100479095/Laboratorio_Criptografia.git) – Desktop app that uses different hashing and encryption algorithms to protect users' data. Built for the **Cryptography** class.  
+- ⚡ [**Image Processing Benchmark**](https://github.com/100496633/ac_p1_2024.git) – Project for the **Computer Architecture** class comparing performance of multiple operations on images using **SoA** (Structure of Arrays) and **AoS** (Array of Structures) layouts.
+- 🧬 [**Seed Clustering**](https://github.com/Jairo-sketch/AA_tarea2.git) – Data Analysis project using K-Means, Hierarchical Clustering, and DBSCAN to find patterns in seed datasets. Built for the **Machine Learning** class.
 
 ---
 
 ## 📫 Contact
 Feel free to **connect with me** or **explore my projects**!  
-- 📧 Email: juan.perez@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario)
+- 📧 Email: joaquinpujolcarrillo@gmail.com  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/joaquinpujolcarrillo/](https://www.linkedin.com/in/joaquinpujolcarrillo/)
 
 ---
 
-
-
-
-<!--
-**100495826/100495826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
