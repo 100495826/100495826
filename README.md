@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight:bold;"> 👋Joaquín Pujol Carrillo👋 </h1>
-<img src="images/Fondo_Linkedin.jpg">
+<img src="images/Fondo_git.jpg">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joaquinpujolcarrillo/">
